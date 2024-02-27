@@ -8,4 +8,4 @@
 
 ## Dependencies
 
-better-sqlite3, slugify, xss.
+better-sqlite3, slugify, xss, @aws-sdk/client-s3
