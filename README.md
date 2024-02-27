@@ -8,4 +8,4 @@
 
 ## Dependencies
 
-better-sqlite3
+better-sqlite3, slugify, xss.
