@@ -87,3 +87,10 @@
 .actions button:focus {
   background: linear-gradient(90deg, #fd4715, #f9b241);
 }
+
+.errorMessage {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  color: #fd4715;
+  font-weight: bold;
+}
